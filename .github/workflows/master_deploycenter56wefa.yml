@@ -39,4 +39,4 @@ jobs:
           app-name: 'deploycenter56wefa'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD00C5FE0B3B4FBB81018898C62405A2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA546980EBDF41D0AAB2A86903566E2D }}
